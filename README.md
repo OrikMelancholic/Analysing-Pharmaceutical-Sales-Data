@@ -25,6 +25,7 @@
 *   `data/` — исходный датасет `salesdaily.csv`.
 *   `analysis.ipynb` — Jupyter Notebook с кодом и выводами.
 *   `README.md` — описание проекта.
+*   https://roadmap.sh/projects/pharmaceutical-sales-data
 
 ## 🚀 Как запустить
 1. Клонируйте репозиторий:
